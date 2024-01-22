@@ -2,7 +2,7 @@
 - I am a front-end dev from Madrid.
 - I’m interested in creating neat stuff,
 - learning about stuff, rinse and repeat. 
-- I’m currently learning Django, Typescript, and making Node.js projects. 
+- I’m currently learning AWS black magic, and making React/Vue projects. 
 - I’m looking to collaborate on anything that looks fun. 
 - Wanna code together? You can reach me at [victorbalaguera@protonmail.com](mailto:victorbalaguera@protonmail.com).
 
